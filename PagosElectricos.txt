@@ -1,0 +1,2 @@
+		PAGOS ELECTRICOS
+Numero de tarjeta - Pin de tarjeta - Nombre - Apellido 

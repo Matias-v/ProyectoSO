@@ -1,0 +1,2 @@
+			DEUDORES
+Numero de apartmento:Ci:Nombre:Apartamento:Total debido

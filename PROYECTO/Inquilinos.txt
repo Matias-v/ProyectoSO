@@ -1,0 +1,3 @@
+		INQUILINOS	
+Nombre-Apellido-Cedula-Numero de apartamento
+1111-Pepe-Rodriguez-1
